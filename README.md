@@ -35,5 +35,5 @@ Even though scope is an optional configuration parameter for Opauth-Stripe-Conne
 Refer to [Stripe docs](https://stripe.com/docs) for [Connecting users](https://stripe.com/docs/connect/standalone-accounts#connecting-users) of Stripe Connect..
 
 ## Lincense
-Opauth-Strioe-Connect is MIT Licensed
+Opauth-Stripe-Connect is MIT Licensed.  
 Copyright © 2016 Otakumesi (https://twitter.com/otakumesi)
