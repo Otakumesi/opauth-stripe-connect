@@ -1,0 +1,21 @@
+{
+    "name": "otakumesi/opauth-stripe-connect",
+    "description": "Stripe Connect strategy for Opauth",
+    "type": "library",
+    "require": {
+        "opauth/opauth": ">=0.2.0",
+        "php": ">=5.6.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Otakumesi",
+            "email": "bakednt@gmail.com"
+        }
+    ],
+    "autoload": {
+            "psr-0": {
+                    "": "."
+            }
+    }
+}
